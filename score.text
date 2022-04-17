@@ -1,0 +1,180 @@
+score at ../../../src\Client\Controllers\Components\Button\init.lua: 
+lines:105
+comment to function ratio: -2
+maximum tabs reached: 1
+maximum column reached: 111
+
+score at ../../../src\Client\Controllers\Components\CombineProps.lua: 
+lines:35
+comment to function ratio: -1
+maximum tabs reached: 1
+maximum column reached: 119
+
+score at ../../../src\Client\Controllers\Components\Menu\init.lua: 
+lines:204
+comment to function ratio: -4
+maximum tabs reached: 1
+maximum column reached: 137
+
+score at ../../../src\Client\Controllers\DataController.lua: 
+lines:197
+comment to function ratio: -8
+maximum tabs reached: 3
+maximum column reached: 242
+
+score at ../../../src\Client\Controllers\EnemyController.lua: 
+lines:51
+comment to function ratio: -6
+maximum tabs reached: 1
+maximum column reached: 81
+
+score at ../../../src\Client\Controllers\GUI\HUD\init.lua: 
+lines:20
+comment to function ratio: -1
+maximum tabs reached: 1
+maximum column reached: 81
+
+score at ../../../src\Client\Controllers\GuiController.lua: 
+lines:52
+comment to function ratio: -3
+maximum tabs reached: 1
+maximum column reached: 138
+
+score at ../../../src\Client\Controllers\HubsController.lua: 
+lines:20
+comment to function ratio: -1
+maximum tabs reached: 1
+maximum column reached: 81
+
+score at ../../../src\Client\Controllers\MenuController.lua: 
+lines:36
+comment to function ratio: -1
+maximum tabs reached: 1
+maximum column reached: 98
+
+score at ../../../src\Client\Controllers\PetController.lua: 
+lines:377
+comment to function ratio: -20
+maximum tabs reached: 1
+maximum column reached: 119
+
+score at ../../../src\Client\Controllers\SoundController.lua: 
+lines:45
+comment to function ratio: -1
+maximum tabs reached: 1
+maximum column reached: 109
+
+score at ../../../src\Client\Controllers\ZoneController.lua: 
+lines:88
+comment to function ratio: -5
+maximum tabs reached: 1
+maximum column reached: 107
+
+score at ../../../src\Client\KnitExecution.client.lua: 
+lines:83
+comment to function ratio: -1
+maximum tabs reached: 1
+maximum column reached: 88
+
+score at ../../../src\Server\KnitExecution.server.lua: 
+lines:74
+comment to function ratio: -1
+maximum tabs reached: 1
+maximum column reached: 89
+
+score at ../../../src\Server\Modules\DataTemplate.lua: 
+lines:183
+comment to function ratio: 0
+maximum tabs reached: 1
+maximum column reached: 45
+
+score at ../../../src\Server\Modules\ProfileService.lua: 
+lines:2429
+comment to function ratio: -65
+maximum tabs reached: 11
+maximum column reached: 164
+
+score at ../../../src\Server\ReplicaService.lua: 
+lines:1079
+comment to function ratio: -28
+maximum tabs reached: 6
+maximum column reached: 179
+
+score at ../../../src\Server\Services\AIService\init.lua: 
+lines:15
+comment to function ratio: 0
+maximum tabs reached: 1
+maximum column reached: 81
+
+score at ../../../src\Server\Services\DataService.lua: 
+lines:332
+comment to function ratio: -15
+maximum tabs reached: 3
+maximum column reached: 132
+
+score at ../../../src\Server\Services\EnemiesService.lua: 
+lines:33
+comment to function ratio: -3
+maximum tabs reached: 1
+maximum column reached: 96
+
+score at ../../../src\Server\Services\EXPService.lua: 
+lines:19
+comment to function ratio: 0
+maximum tabs reached: 1
+maximum column reached: 129
+
+score at ../../../src\Server\Services\HubsService.lua: 
+lines:82
+comment to function ratio: -4
+maximum tabs reached: 1
+maximum column reached: 105
+
+score at ../../../src\Server\Services\PedestalService.lua: 
+lines:31
+comment to function ratio: -1
+maximum tabs reached: 1
+maximum column reached: 91
+
+score at ../../../src\Server\Services\PetsService.lua: 
+lines:113
+comment to function ratio: -4
+maximum tabs reached: 1
+maximum column reached: 111
+
+score at ../../../src\Server\Services\ZonesService.lua: 
+lines:62
+comment to function ratio: -4
+maximum tabs reached: 1
+maximum column reached: 117
+
+score at ../../../src\Shared\MadworkMaid.lua: 
+lines:150
+comment to function ratio: -9
+maximum tabs reached: 3
+maximum column reached: 129
+
+score at ../../../src\Shared\MadworkScriptSignal.lua: 
+lines:234
+comment to function ratio: -10
+maximum tabs reached: 4
+maximum column reached: 144
+
+score at ../../../src\Shared\RateLimiter.lua: 
+lines:134
+comment to function ratio: -5
+maximum tabs reached: 3
+maximum column reached: 111
+
+score at ../../../src\Shared\ReplicaController.lua: 
+lines:1094
+comment to function ratio: -50
+maximum tabs reached: 6
+maximum column reached: 179
+
+score at ../../../src\Shared\Types.lua: 
+lines:210
+comment to function ratio: 0
+maximum tabs reached: 1
+maximum column reached: 108
+
